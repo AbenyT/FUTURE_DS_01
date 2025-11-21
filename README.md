@@ -1,3 +1,4 @@
+<img width="944" height="504" alt="download" src="https://github.com/user-attachments/assets/c6ddfbcd-f5a5-4629-a69d-6d196de5bb15" />
 Student Feedback Analysis: The Event That Almost Nailed It (But Got Buried by Assignments)
 1,001 brutally honest students · 1 Jupyter notebook · 0 sugarcoating
 The Plot Twist Nobody Saw Coming
