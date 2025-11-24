@@ -87,5 +87,5 @@ Enables dynamic, slice-and-dice exploration of insights.
 ## 📘 How to Use This Repository
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/AbenyT/FUTURE_DS/blob/FUTURE_DS_01/Superstore_Dashboard.pbix)
 
