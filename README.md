@@ -1,97 +1,90 @@
-📊 Superstore Sales Performance Dashboard
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/79eab9fc-df48-4010-9882-3743f9fb530d" />
+# 📊 Superstore Sales Performance Dashboard  
+A Power BI Business Intelligence Project  
 
+This repository contains a full business intelligence analysis of Superstore sales using an interactive Power BI dashboard. The project provides actionable insights into revenue, profitability, and product performance across regions, categories, and time, enabling data-driven decision-making.  
 
-A Power BI Business Intelligence Project
+---
 
-📁 Project Overview
+## 🚀 Project Overview
+The dashboard visualizes:  
+- Total sales and total profit  
+- Profit margin (%)  
+- Revenue and profit by region and category  
+- Monthly sales trends  
+- Top-performing products  
+- Interactive slicers for Region, Category, Segment, and Year  
 
-This project showcases a Power BI dashboard built using the Superstore Sales Dataset.
-The goal is to provide clear, actionable insights for business decision-making through interactive visual analytics.
+This allows business leaders to quickly assess overall performance, identify growth opportunities, and optimize pricing and product strategies.  
 
-The dashboard captures:
+---
 
-Revenue performance
+## 📄 Included Files
+### **1. Dashboard Image**
+A high-quality PNG version of the dashboard for visual analysis.  
+Path:  
+`/mnt/data/superstore_dashboard.png`  
 
-Profitability
+### **2. Business Intelligence Report (Optional PDF)**
+A professionally formatted report containing:  
+- Executive summary  
+- Regional and category performance analysis  
+- Top product insights  
+- Monthly trend interpretation  
+- Full-page dashboard visual  
 
-Regional and category trends
+Download:  
+`/mnt/data/superstore_dashboard_report.pdf`  
 
-Product-level insights
+---
 
-Monthly sales patterns
+## 🛠️ Tools & Technologies
+- **Power BI Desktop** – dashboard creation  
+- **Power Query** – data cleaning and transformation  
+- **DAX** – key metrics and KPIs  
+- **CSV Dataset: Superstore Sales** – source data for analysis  
+- **Data visualization** – interactive charts and slicers  
 
-🎯 Objectives
+---
 
-Build an intuitive business dashboard using Power BI
+## 📘 Dashboard Features
+### ✅ KPI Cards
+- Total Sales  
+- Total Profit  
+- Profit Margin (%)  
+Provides immediate visibility into overall business performance.  
 
-Create KPIs using DAX
+### ✅ Sales by Region
+Bar chart showing revenue contribution from West, East, Central, and South regions.  
 
-Analyze region, category, and product performance
+### ✅ Profit by Category
+Column chart comparing profitability across Technology, Furniture, and Office Supplies.  
 
-Visualize sales trends over time
+### ✅ Monthly Sales Trend
+Line chart highlighting seasonal sales patterns.  
 
-Provide a decision-ready report for business leaders
+### ✅ Top 10 Products Table
+Displays best-performing products by Sales and Profit using a Top N filter.  
 
-📊 Dashboard Features
-✅ 1. KPI Cards
+### ✅ Interactive Slicers
+- Region  
+- Category  
+- Segment  
+- Year  
+Enables dynamic, slice-and-dice exploration of insights.  
 
-Total Sales
+---
 
-Total Profit
+## 🧠 Key Insights
+- West Region leads all sales; South Region is the weakest.  
+- Technology products deliver the highest profit margin.  
+- Some high-discount products produce negative profit → pricing review needed.  
+- Overall profit margin of 12% indicates room to improve pricing or reduce costs.  
+- Noticeable monthly fluctuations suggest seasonal sales patterns.  
 
-Profit Margin (%)
+---
 
-Gives immediate visibility into overall business performance.
+## 📘 How to Use This Repository
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
 
-✅ 2. Sales by Region
-
-A bar chart showing revenue contribution from the West, East, Central, and South regions.
-
-✅ 3. Profit by Category
-
-A column chart comparing profitability across Technology, Furniture, and Office Supplies.
-
-✅ 4. Monthly Sales Trend
-
-A line chart showing sales changes across time, highlighting seasonal trends.
-
-✅ 5. Top 10 Products Table
-
-Displays the best-performing products by Sales and Profit using a Top N filter.
-
-✅ 6. Interactive Slicers
-
-Region
-
-Category
-
-Segment
-
-Year
-
-Allows dynamic, slice-and-dice exploration of insights.
-
-🧠 Key Insights
-
-West Region leads all sales; South Region is the weakest.
-
-Technology products deliver the highest profit margin.
-
-Several high-discount products produce negative profit → pricing review needed.
-
-Profit margin at 12% indicates opportunities to improve pricing or reduce costs.
-
-Noticeable monthly fluctuations suggest seasonal sales patterns.
-
-🛠 Tools & Technologies
-
-Power BI Desktop
-
-Power Query (Data cleaning & transformation)
-
-DAX (Key metrics & calculations)
-
-CSV Dataset: Superstore Sales
-
-📂 Repository Structure
