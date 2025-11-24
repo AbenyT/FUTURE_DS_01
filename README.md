@@ -22,7 +22,8 @@ This allows business leaders to quickly assess overall performance, identify gro
 ### **1. Dashboard Image**
 A high-quality PNG version of the dashboard for visual analysis.  
 Path:  
-`/mnt/data/superstore_dashboard.png`  
+![Uploading Superstore _Dashbored.png…]()
+ 
 
 ### **2. Business Intelligence Report (Optional PDF)**
 A professionally formatted report containing:  
