@@ -34,7 +34,7 @@ A professionally formatted report containing:
 - Full-page dashboard visual  
 
 Download:  
-`/mnt/data/superstore_dashboard_report.pdf`  
+[`/mnt/data/superstore_dashboard_report.pdf` ](https://github.com/AbenyT/FUTURE_DS/blob/FUTURE_DS_01/Business%20Report%2C%20Performance%20Analysis%20from%20Superstore%20Sales%20Dashboard.pdf) 
 
 ---
 
